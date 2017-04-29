@@ -10,7 +10,8 @@ import com.alibaba.fastjson.JSON;
 
 
 /**
- * Created by guoqiang on 2015/6/29.
+ * Description: 字符串工具类<br>
+ * @version V1.0  2017/4/29 17:45  by 石冬冬-Seig Heil（dd.shi02@zuche.com）创建
  */
 public final class StringTools {
 	/**
